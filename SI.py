@@ -1,11 +1,6 @@
 import numpy as np
 from random import *
-import tensorflow as tf
-import pandas as pd
-from sklearn import preprocessing
-from sklearn.model_selection import train_test_split
 import math
-import ast
 
 
 class Network():
