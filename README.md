@@ -1,2 +1,1 @@
-# NeuralNetNumpy
-Neural Network made with Numpy library
+# Simple Fully Connected Neural Network implementation using Nummpy  
