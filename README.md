@@ -1,1 +1,1 @@
-# Simple Fully Connected Neural Network implementation using Nummpy  
+### Simple Fully Connected Neural Network implementation using Nummpy  
